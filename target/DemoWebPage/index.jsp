@@ -2,10 +2,10 @@
 	<head>
 		<title>Test Page</title>
 	</head>
-	<body style="background-color:powderblue;">
-		<p>Hello All</p>
+	<body style="background-color:grey">
+		<p align="center">Hello SDET- you are the future of AQE</p>
 		<input type="text" id="myText" value="">
-						<button onclick="myFunction()">Click Here</button>		
+						<button id="click" onclick="myFunction()">Click Here</button>		
 						<p id="demo"></p>
 						<script>
 						function myFunction() {
