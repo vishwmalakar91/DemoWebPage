@@ -5,7 +5,8 @@
 </head>
 
 <body style="background-color:grey">
-	<p align="center">Hello SDET- you are the future of AQE</p>
+	<p align="center">Hello SDET !</p>
+	<p align="center">You are the future of AQE</p>
 	<input type="text" id="myText" value="">
 	<button id="click" onclick="myFunction()">Click Here</button>
 	<p id="demo"></p>
